@@ -4,7 +4,7 @@ AISA (Automated Identification for Speech Abuse) is a Discord bot designed to de
 
 ## Features
 
-- **Hate Speech and Abusive Detection**: Identifies various hate speech and abusive indonesian language.
+- **Hate Speech and Abusive Detection**: Identifies hate speech and abusive language in Indonesian.
 - **Automatic Warnings**: Sends warnings to users who send inappropriate messages.
 - **Mute Repeated Offenders**: Automatically mutes users who repeatedly violate the rules.
 - **Easy Integration**: Easily integrated with your Discord server.
