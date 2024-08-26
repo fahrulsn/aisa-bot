@@ -35,4 +35,4 @@ AISA (Automated Identification for Speech Abuse) is a Discord bot designed to de
 
 ## Demo
 
-Add the demo bot to your Discord server using this [link](https://discord.com/api/oauth2/authorize?client_id=1177191526456098896&permissions=2416126006&scope=bot).
+You can invite the demo bot to your Discord server using this [link](https://discord.com/api/oauth2/authorize?client_id=1177191526456098896&permissions=2416126006&scope=bot).
